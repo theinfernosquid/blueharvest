@@ -1,0 +1,7 @@
+"blueharvest"
+{
+	"title"		"Blue Harvest"
+	"base"		"base"
+	"maps"		""
+	"menusystem"	"1"
+}
